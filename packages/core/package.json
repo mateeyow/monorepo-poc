@@ -1,5 +1,5 @@
 {
-  "name": "@mono/core",
+  "name": "@mateeyow/core",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,6 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "5ff82f866e98ea18510b60f073caa4f78e5b32d6"
 }

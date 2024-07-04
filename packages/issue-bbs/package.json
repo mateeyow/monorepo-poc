@@ -1,5 +1,5 @@
 {
-  "name": "@mono/issue-bbs",
+  "name": "@mateeyow/issue-bbs",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mono/core": "^1.0.0"
+    "@mateeyow/core": "workspace:*"
   },
   "publishConfig": {
     "access": "public"
