@@ -1,3 +1,16 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [1.0.1](https://github.com/mateeyow/monorepo-poc/compare/@mateeyow/issue-bbs@1.1.3...@mateeyow/issue-bbs@1.0.1) (2024-07-04)
+
+**Note:** Version bump only for package @mateeyow/issue-bbs
+
+
+
+
+
 # [1.0.0](https://github.com/mateeyow/monorepo-poc/compare/@mateeyow/issue-bbs@1.1.3...@mateeyow/issue-bbs@1.0.0) (2024-07-04)
 
 
@@ -21,6 +34,3 @@
 ### Features
 
 * initial commit ([3cbcb64](https://github.com/mateeyow/monorepo-poc/commit/3cbcb64a779e4823e87d78d28445297c7cb99fc3))
-
-
-

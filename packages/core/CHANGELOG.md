@@ -1,3 +1,16 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [1.0.1](https://github.com/mateeyow/monorepo-poc/compare/@mateeyow/core@1.0.2...@mateeyow/core@1.0.1) (2024-07-04)
+
+**Note:** Version bump only for package @mateeyow/core
+
+
+
+
+
 ## 1.0.0 (2024-07-04)
 
 * Publish ([24087c6](https://github.com/mateeyow/monorepo-poc/commit/24087c6))
@@ -16,6 +29,3 @@
 
 * v1.0.0 ([45197e1](https://github.com/mateeyow/monorepo-poc/commit/45197e1))
 * feat: initial commit ([3cbcb64](https://github.com/mateeyow/monorepo-poc/commit/3cbcb64))
-
-
-
