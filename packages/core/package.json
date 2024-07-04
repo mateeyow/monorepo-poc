@@ -1,8 +1,9 @@
 {
   "name": "@mateeyow/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "exports": "./index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js",
@@ -16,5 +17,8 @@
   },
   "devDependencies": {
     "conventional-changelog-cli": "^5.0.0"
-  }
+  },
+  "files": [
+    "index.js"
+  ]
 }
