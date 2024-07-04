@@ -23,8 +23,8 @@ importers:
   packages/issue-ecdsa:
     dependencies:
       '@mateeyow/core':
-        specifier: '@mateeyow/core'
-        version: link:@mateeyow/core
+        specifier: workspace:*
+        version: link:../core
 
 packages:
 

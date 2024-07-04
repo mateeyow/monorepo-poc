@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "core": "pnpm --filter @mono/core",
-    "bbs": "pnpm --filter @mono/issue-bbs",
-    "ecdsa": "pnpm --filter @mono/issue-ecdsa",
+    "core": "pnpm --filter @mateeyow/core",
+    "bbs": "pnpm --filter @mateeyow/issue-bbs",
+    "ecdsa": "pnpm --filter @mateeyow/issue-ecdsa",
     "version": "lerna version"
   },
   "keywords": [],
