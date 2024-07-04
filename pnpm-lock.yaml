@@ -14,9 +14,17 @@ importers:
 
   packages/core: {}
 
-  packages/issue-bbs: {}
+  packages/issue-bbs:
+    dependencies:
+      '@mono/core':
+        specifier: workspace:^
+        version: link:../core
 
-  packages/issue-ecdsa: {}
+  packages/issue-ecdsa:
+    dependencies:
+      '@mono/core':
+        specifier: workspace:^
+        version: link:../core
 
 packages:
 
