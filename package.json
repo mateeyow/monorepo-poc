@@ -8,13 +8,14 @@
     "core": "pnpm --filter @mateeyow/core",
     "bbs": "pnpm --filter @mateeyow/issue-bbs",
     "ecdsa": "pnpm --filter @mateeyow/issue-ecdsa",
-    "version": "lerna version"
+    "version": "lerna version --conventional-commits",
+    "publish": "lerna publish from-package"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
+    "conventional-changelog-cli": "^5.0.0",
     "lerna": "^8.1.5"
   },
   "publishConfig": {
