@@ -16,15 +16,15 @@ importers:
 
   packages/issue-bbs:
     dependencies:
-      '@mono/core':
-        specifier: workspace:^
+      '@mateeyow/core':
+        specifier: workspace:*
         version: link:../core
 
   packages/issue-ecdsa:
     dependencies:
-      '@mono/core':
-        specifier: workspace:^
-        version: link:../core
+      '@mateeyow/core':
+        specifier: '@mateeyow/core'
+        version: link:@mateeyow/core
 
 packages:
 
