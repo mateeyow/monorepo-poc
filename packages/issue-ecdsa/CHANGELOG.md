@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/mateeyow/monorepo-poc/compare/@mateeyow/issue-ecdsa@1.1.0...@mateeyow/issue-ecdsa@1.1.1) (2024-07-05)
+
+**Note:** Version bump only for package @mateeyow/issue-ecdsa
+
+
+
+
+
 # 1.1.0 (2024-07-04)
 
 
