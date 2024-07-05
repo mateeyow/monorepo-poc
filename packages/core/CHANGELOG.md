@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/mateeyow/monorepo-poc/compare/@mateeyow/core@1.1.0...@mateeyow/core@1.2.0) (2024-07-05)
+
+
+### Features
+
+* new core function ([70f0c29](https://github.com/mateeyow/monorepo-poc/commit/70f0c29da81295d60f275691e2ff55db7fd1570b))
+
+
+
+
+
 # 1.1.0 (2024-07-04)
 
 
