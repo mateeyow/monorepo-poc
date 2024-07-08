@@ -7,4 +7,4 @@ export function issueBBS() {
 }
 
 const solution = issueBBS()
-console.log('solution', solution);
+console.log('solutaion', solution);
