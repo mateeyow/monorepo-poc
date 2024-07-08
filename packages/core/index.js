@@ -1,5 +1,5 @@
 export function log() {
-  console.log('core');
+  console.log('[core]: ');
 }
 
 export function add(a, b) {
