@@ -39,8 +39,6 @@ importers:
         specifier: ^5.5.3
         version: 5.5.3
 
-  packages/logger: {}
-
   packages/math:
     dependencies:
       typescript:
