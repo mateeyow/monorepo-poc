@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "core": "pnpm --filter @mateeyow/core",
-    "bbs": "pnpm --filter @mateeyow/issue-bbs",
-    "ecdsa": "pnpm --filter @mateeyow/issue-ecdsa",
+    "test": "npx jest --detectOpenHandles --coverage",
+    "math": "pnpm --filter @mateeyow/math",
     "version": "lerna version --conventional-commits",
     "publish": "lerna publish from-package"
   },
@@ -15,8 +14,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "^29.5.12",
     "conventional-changelog-cli": "^5.0.0",
-    "lerna": "^8.1.5"
+    "jest": "^29.7.0",
+    "lerna": "^8.1.5",
+    "ts-jest": "^29.2.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
   },
   "publishConfig": {
     "access": "public"
