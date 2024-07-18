@@ -30,6 +30,15 @@ importers:
         specifier: ^5.5.3
         version: 5.5.3
 
+  packages/algos:
+    dependencies:
+      '@mateeyow/math':
+        specifier: workspace:*
+        version: link:../math
+      typescript:
+        specifier: ^5.5.3
+        version: 5.5.3
+
   packages/logger: {}
 
   packages/math:

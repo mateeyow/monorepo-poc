@@ -7,6 +7,7 @@
   "scripts": {
     "test": "npx jest --detectOpenHandles --coverage",
     "math": "pnpm --filter @mateeyow/math",
+    "algos": "pnpm --filter @mateeyow/algos",
     "version": "lerna version --conventional-commits",
     "publish": "lerna publish from-package"
   },
