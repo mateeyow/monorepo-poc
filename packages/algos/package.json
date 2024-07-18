@@ -18,5 +18,8 @@
   "dependencies": {
     "@mateeyow/math": "workspace:*",
     "typescript": "^5.5.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
