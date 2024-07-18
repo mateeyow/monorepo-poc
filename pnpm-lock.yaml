@@ -30,24 +30,6 @@ importers:
         specifier: ^5.5.3
         version: 5.5.3
 
-  packages/core:
-    devDependencies:
-      conventional-changelog-cli:
-        specifier: ^5.0.0
-        version: 5.0.0(conventional-commits-filter@5.0.0)
-
-  packages/issue-bbs:
-    dependencies:
-      '@mateeyow/core':
-        specifier: workspace:*
-        version: link:../core
-
-  packages/issue-ecdsa:
-    dependencies:
-      '@mateeyow/core':
-        specifier: workspace:*
-        version: link:../core
-
   packages/logger: {}
 
   packages/math:
